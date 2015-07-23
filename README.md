@@ -3,7 +3,7 @@
 # bootstrap
 
  * FDroid :
-[local mirror](https://raw.githubusercontent.com/tst2005/apk/master/FDroid.apk),
+[local mirror](https://raw.githubusercontent.com/tst2005/apk/master/p1/FDroid.apk),
 [official download](https://f-droid.org/FDroid.apk),
 [homepage](https://f-droid.org/)
  * Browser : firefox / fennec / lightning
