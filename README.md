@@ -2,5 +2,5 @@
 
  * Fdroid
 [official](https://f-droid.org/)
-[local](https://raw.githubusercontent.com/tst2005/apk/master/FILE.apk)
+[local](https://raw.githubusercontent.com/tst2005/apk/master/FDroid.apk)
  * ...
